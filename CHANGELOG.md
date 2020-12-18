@@ -1,6 +1,6 @@
-## Upcoming
+## Version 6.1.1 - Dec 2020
 
- * TBC
+ * Don't send heartbeats when disconnecting.
 
 
 ## Version 6.1.0 - Jul 2020
@@ -64,6 +64,11 @@
  * Tidy up listeners (correct the behaviour of TestListener)
  * Fix problem with double-disconnect notification (ihttps://github.com/jasonrbriggs/stomp.py/issues/245)
  * Add facility for PrintingListener to write to log rather than print statements
+
+
+## Version 4.1.24 - Dec 2020
+
+ * Add fix for credential exposure (https://github.com/jasonrbriggs/stomp.py/pull/244#issuecomment-748048212)
 
 
 ## Version 4.1.22 - Apr 2019
